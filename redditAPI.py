@@ -15,5 +15,5 @@ hot_posts = subreddit.hot(limit = 5)
 
 # print the titles 
 for submission in hot_posts:
-    print(submission.body)
+    print(submission.title)
 
