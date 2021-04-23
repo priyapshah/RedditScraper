@@ -17,7 +17,8 @@ hot_posts = subreddit.hot(limit = 1)
 for submission in hot_posts:
     print(submission.title)
     print(50*'-')
-    comments = submission.comments
+    submission.comments.replace_more(limit=0)
+    comments = submission.comments.list()
     for comment in comments:
         print(50*'*')
         print(comment.body)
