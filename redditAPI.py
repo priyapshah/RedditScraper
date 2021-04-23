@@ -21,4 +21,7 @@ for submission in hot_posts:
     for comment in comments:
         print(50*'*')
         print(comment.body)
+        # if (len(comment.replies) > 0):
+        #     for reply in comment.replies:
+        #         print(reply.body)
 
