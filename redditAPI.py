@@ -12,7 +12,7 @@ subreddits = ['CMU', 'UIUC', 'MIT', 'stanford', 'UCSD', 'berkeley', 'cornell', '
               'neu', 'columbia', 'uwmadison', 'upenn', 'utaustin' , 'purdue', 'umass', 'nyu', 'ucla']
 
 keywords = ['CS', 'CSE', 'CIS', 'EECS', 'Comp Sci', 'CompSci', 'CSCI', 'Computer Science', 'Computer Sciences', 
-            'Computerscience?', 'C Science', 'Cscience']
+            'Computerscience', 'C Science', 'Cscience']
 
 subreddit = reddit.subreddit('UPenn')
 
