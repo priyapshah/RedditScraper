@@ -14,6 +14,10 @@ subreddits = ['CMU', 'UIUC', 'MIT', 'stanford', 'UCSD', 'berkeley', 'cornell', '
 keywords = ['CS', 'CSE', 'CIS', 'EECS', 'Comp Sci', 'CompSci', 'CSCI', 'Computer Science', 'Computer Sciences', 
             'Computerscience', 'C Science', 'Cscience']
 
+for subreddit in subreddits:
+  for keyword in keywords:
+    
+
 subreddit = reddit.subreddit('UPenn')
 
 # get the top 5 hot posts
