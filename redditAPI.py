@@ -11,6 +11,9 @@ reddit = praw.Reddit(client_id = '59cxBcvPTe0WpA',
 subreddits = ['CMU', 'UIUC', 'MIT', 'stanford', 'UCSD', 'berkeley', 'cornell', 'umich', 'udub', 'umd', 'gatech', 
               'neu', 'columbia', 'uwmadison', 'upenn', 'utaustin' , 'purdue', 'umass', 'nyu', 'ucla']
 
+keywords = ['CS', 'CSE', 'CIS', 'EECS', 'Comp Sci', 'CompSci', 'CSCI', 'Computer Science', 'Computer Sciences', 
+            'Computerscience?', 'C Science', 'Cscience']
+
 subreddit = reddit.subreddit('UPenn')
 
 # get the top 5 hot posts
