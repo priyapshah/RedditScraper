@@ -15,12 +15,12 @@ keywords = ['CS', 'CSE', 'CIS', 'EECS', 'Comp Sci', 'CompSci', 'CSCI', 'Computer
             'Computerscience', 'C Science', 'Cscience']
 
 # outer for-loop goes to each subreddit. inner for-loop scans for keywords
-for subreddit in subreddits:
-  new = subreddit.new(limit = 500)
-  relevant_posts = []
-  for submission in new:
-    if (submission.body.contains )
-    print(submission.title)
+#for subreddit in subreddits:
+  #new = subreddit.new(limit = 500)
+  #relevant_posts = []
+  #for submission in new:
+ #   if (submission.body.contains )
+#    print(submission.title)
     
 
 # subreddit = reddit.subreddit('UPenn')
