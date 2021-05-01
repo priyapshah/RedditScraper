@@ -1,0 +1,107 @@
+[MEGATHREAD 8] Post your questions about admissions, Pittsburgh, and coming to CMU info (e.g. majors, dorms) here!
+This megathread is to help prevent top-level posts from being downvoted and then left unanswered, and also to provide one thread as a reference for folks with future questions. You don't _have_ to post here, but I recommend it. :)
+
+This thread is automatically sorted by "new", so post away, even if there are a lot of comments.
+
+For best results, remember to search this page and the previous megathreads for keywords (like "transfer", "dorm", etc.) before posting a question that is identical or very similar to one that's already been asked. /r/pittsburgh is also a generally better resource for questions that aren't specific to CMU.
+
+---
+
+As a reminder, **you can report posts that should be comments in the megathread instead** if seeing them posted at top-level bothers you. Please choose "It breaks r/cmu's rules" and then "Use the megathread" as the reason.
+Request flair from AutoMod here!
+Request flair from AutoMod by commenting **in this thread only**. AutoMod should reply either with a confirmation or to tell you it didn't understand the request.
+
+If you want a major that isn't listed, I'll add it to the list. If you want a flair that doesn't fit this format, I'm happy to customize yours if you send modmail.
+
+---
+Syntax:
+
+```
+!flair <type> <major>
+```
+
+```
+!flair <type> <major> <year in 'xx format>
+```
+
+```
+!flair <standalone type>
+```
+
+Valid examples:
+
+```
+!flair Junior Physics
+```
+
+```
+!flair Freshman Art '23
+```
+
+```
+!flair Ph.D. Cog Sci
+```
+
+```
+!flair Alumnus CS '09
+```
+
+```
+!flair Master's Philosophy '13
+```
+
+---
+
+Reminder that you must use these terms **exactly as typed here** for AutoMod to understand.
+
+Type options:
+
+* Freshman
+* Sophomore
+* Junior
+* Senior
+* Master's
+* Ph.D.
+* Alumnus
+
+Major options:
+
+* Art
+* AI
+* Biology
+* Chemistry
+* ChemE
+* Cog Sci
+* Comp Fi
+* CS
+* ECE
+* Econ
+* English
+* History
+* IRP
+* IS
+* Linguistics
+* Logic
+* Math
+* MechE
+* Music
+* MSE
+* Neuroscience
+* Philosophy
+* Physics
+* Psych
+* Stat
+
+Standalone type options (which are still options in the premade flair templates in the sidebar):
+
+* Prospective Student
+* Undergrad
+* Grad Student
+* Faculty
+* Staff
+Is Triple Counting a class allowed
+Can one get credit for a class in her major and in 2 minors at the same time. The wording seems to imply this is allowed but it is not explicit.
+Anyone here get off the waitlist in previous years?
+
+As someone from Michigan
+
