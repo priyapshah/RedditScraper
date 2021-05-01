@@ -10,34 +10,34 @@ reddit = praw.Reddit(client_id = '59cxBcvPTe0WpA',
 # subreddit of interest
 subreddits = ['CMU', 'UIUC', 'MIT', 'stanford', 'UCSD', 'berkeley', 'cornell', 'umich', 'udub', 'umd', 'gatech', 
               'neu', 'columbia', 'uwmadison', 'upenn', 'utaustin' , 'purdue', 'umass', 'nyu', 'ucla']
-
 keywords = ['CS', 'CSE', 'CIS', 'EECS', 'Comp Sci', 'CompSci', 'CSCI', 'Computer Science', 'Computer Sciences', 
-            'Computerscience', 'C Science', 'Cscience']
+            'Computerscience', 'C Science', 'Cscience']   
+
+for school in subreddits:
+    subreddit = reddit.subreddit(school)
+
+    # create a file for the school
+    schoolFile = open(school+".txt","w+")
+
+    # get the top n hot posts
+    hot_posts = subreddit.hot(limit = 5)
+
+    # print the post titles and body 
+    for submission in hot_posts:
+        print(submission.title)
+        schoolFile.write(submission.title)
+        schoolFile.write("\n")
+        print(submission.selftext)
+        schoolFile.write(submission.selftext)
+        schoolFile.write("\n")
+        print(50*'-')
+        
+
 
 # outer for-loop goes to each subreddit. inner for-loop scans for keywords
-#for subreddit in subreddits:
-  #new = subreddit.new(limit = 500)
-  #relevant_posts = []
-  #for submission in new:
- #   if (submission.body.contains )
-#    print(submission.title)
-    
-
-# subreddit = reddit.subreddit('UPenn')
-
-# get the top 5 hot posts
-hot_posts = subreddit.hot(limit = 1)
-
-# print the titles 
-for submission in hot_posts:
-    print(submission.title)
-    print(50*'-')
-    submission.comments.replace_more(limit=0)
-    comments = submission.comments.list()
-    for comment in comments:
-        print(50*'*')
-        print(comment.body)
-        # if (len(comment.replies) > 0):
-        #     for reply in comment.replies:
-        #         print(reply.body)
-
+# for subreddit in subreddits:
+#   new = subreddit.new(limit = 500)
+#   relevant_posts = []
+#   for submission in new:
+#     if (submission.body.contains )
+#     print(submission.title)
