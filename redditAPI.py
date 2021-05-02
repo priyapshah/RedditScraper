@@ -11,7 +11,7 @@ reddit = praw.Reddit(client_id = '59cxBcvPTe0WpA',
 subreddits = ['CMU', 'UIUC', 'MIT', 'stanford', 'UCSD', 'berkeley', 'cornell', 'umich', 'udub', 'umd', 'gatech', 
               'neu', 'columbia', 'uwmadison', 'upenn', 'utaustin' , 'purdue', 'umass', 'nyu', 'ucla']
 keywords = ['CS', 'CSE', 'CIS', 'EECS', 'Comp Sci', 'CompSci', 'CSCI', 'Computer Science', 'Computer Sciences', 
-            'Computerscience', 'C Science', 'Cscience']   
+            'Computerscience', 'C Science', 'Cscience', 'COS']   
 
 for school in subreddits:
     subreddit = reddit.subreddit(school)
@@ -20,17 +20,20 @@ for school in subreddits:
     schoolFile = open(school+".txt","w+")
 
     # get the top n hot posts
-    hot_posts = subreddit.hot(limit = 5)
+    new_posts = subreddit.new(limit = 500)
 
     # print the post titles and body 
-    for submission in hot_posts:
-        print(submission.title)
+    for submission in new_posts:
+ 
         schoolFile.write(submission.title)
         schoolFile.write("\n")
-        print(submission.selftext)
+
         schoolFile.write(submission.selftext)
+
+        # file formatting
         schoolFile.write("\n")
-        print(50*'-')
+        schoolFile.write(50*'-')
+        schoolFile.write("\n")
         
 
 
