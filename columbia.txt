@@ -1,3 +1,21 @@
+Research, generally
+How easy is it to get involved in bio/neuro research? Not just in the summer, but in the fall or spring? Are there enough RA positions to go around? I'm currently a rising sophomore, do you have any advice?
+--------------------------------------------------
+Can Data Structures be taken asynchronously for the summer term?
+
+--------------------------------------------------
+MS Spring/Fall Admissions
+Thinking about applying for MS CS but can't decide whether I should apply for the Spring or Fall semester. Anyone have an insight about the pros/cons of each sem? Will I get the same aid? Is there more people applying for the Fall than the Spring? Any insight/advice will help, thank you!
+--------------------------------------------------
+SSOL: max number of credits registered at once?
+so I'm currently enrolled in 21 for the fall and im sitting on some waitlists. if the waitlists go through, will that push me up to 24, 27, etc.? or will i eventually hit a cap which effectively stops any of my waitlists from going through until i drop a course? (i realize this is oddly specific but maybe someone has had the same experience before)
+--------------------------------------------------
+What is the CVN Master's in CS Online Program like?
+I recently was admitted to this program. I also got admitted to OMSC Georgia tech online masters program and UC Berkeley controls systems for Mechanical Engineering. Does anyone know how CVN Masters of CS program is? I'm thinking whether I should do this vs georgia tech online masters.
+--------------------------------------------------
+Experience with Stockwell Biochem
+Hi! I heard good things about Stockwell, and I was wondering whether his class would be fine if I took  intro bio at another school. Thank you!!! [🐱](https://emojipedia.org/cat-face/)
+--------------------------------------------------
 How does Columbia Law treat Columbia undergrads in admissions?
 Is it easier to get into CLS if you went to Columbia for undergrad? Thanks for any input, I’m a rising junior in CC planning to attend law school and am trying to get my sucks in a row.
 --------------------------------------------------
@@ -1205,11 +1223,6 @@ How to get 2BR Apt in Grad Housing
 I’m trying to get couples housing and the only option the portal gives me on the application is 1 BR or studio. 
 
 On the day of selection, will 2-3BR options also appear? If not, what can I do to get this on campus?
---------------------------------------------------
-Taking NLP alongside Biochem in summer A?
-I’m considering taking these two courses at the same time (summer A)— does anyone have experience with this workload or know if this would be a reasonable combination? Mostly worried about the load for stockwell biochem. Any opinions on this? 
-
-Thanks!
 --------------------------------------------------
 Intro to information science with Cannon
 Can anyone who has taken this class share how this class was, workload and grading?
@@ -2508,23 +2521,4 @@ anyone know if this course is being offered in fall 2021? i see some linguistics
 --------------------------------------------------
 Why aren't the Professors listed in the Course Directory?
 I'm looking at the LitHum directory and no professors are listed. All I can see is the days and times that the class is being taught. Is there a way I can see who is teaching what without waiting till classes start and the university decides to fill that portion of the Course Directory??
---------------------------------------------------
-Easy courses for CS students
-Since it's that time of year again, I was hoping I might be able to get some recommendations for some less difficult courses for CS majors for the upcoming term. I figure since there's an overrepresentation of CS students on the subreddit there might also be some public utility to the question (assuming we don't all get stuck on a waitlist forever). 'preciate the help
---------------------------------------------------
-Is anyone pumped for Bacchanal?
-Haven't really heard anyone talk about it and it's this Saturday.
---------------------------------------------------
-Advice on what courses to take
-I am going to be a sophmore who knows that he wants to major in biochemistry.
-
-Does a schedule consisting of orgo chem, intro bio 1, organic chem lab, that western civilizations class from the core, and music hum sound like a decent mix of core and major requirements?
-
-Total credits: 16.5
---------------------------------------------------
-Where can I find my major GPA?
-Is there a place where it's listed officially? Or do I just calculate it myself?
---------------------------------------------------
-Calc I with Andrew Blumberg?
-I'm taking Calc I this summer to get my science req out of the way (took Calc AB in high school) and was wondering if anyone had thoughts (should I wait until fall)? Thanks!
 --------------------------------------------------

@@ -1,3 +1,16 @@
+MIT Vaccine requirement
+What are the vaccines accepted by MIT so far?
+--------------------------------------------------
+Most relevant probability course for ML
+Hello friends at MIT. I'm an EECS student at the University of Michigan, and I will be taking machine learning next semester. However, my background in probability is a little weak (slightly better than AP Stats level) and I'm trying to fix that over the summer by just going through an MIT OCW course. However, I found 3-4 different probability/random processes/statistics courses and was wondering which one you guys suggest as a pre-req to ML?
+
+It seems to me from my research that 6.041 Introduction to Probability would make sense since it is offered by your EECS department and covers things I'd expect I'll need like multivariate distributions, joint/marginal/conditional probability, Bayes Rule, etc. [https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm). Does this one seem right or is there something else you guys usually take? Thanks!
+
+p.s. I hope this sub is the right place for this post, if not, mods please feel free to remove it and I will ask elsewhere
+--------------------------------------------------
+How respected are Republicans on campus?
+Are they hated? Have no friends? Or does no one really care?
+--------------------------------------------------
 Still Waiting for Fall 2021 Transfer Decision
 Has anyone gotten their admission result yet for 2021 fall transfer application? I'm stil waiting for mine, waited through 1:59 pm, 3:14 pm, and don't know what other time should i be looking for.
 --------------------------------------------------
@@ -2852,19 +2865,4 @@ Should I take 18.06 for course 6-3 if I took it in high school already?
 I dual-enrolled at a local college for linear algebra and it pretty much covered a standard college curriculum, but of course MIT probably makes it much harder. I don't want to act like I can just handle anything a future CS class throws at me, but if the use of linear algebra is pretty limited then I'd just skip it. (I have ASE'd 18.01 and 18.02)
 
 I'm considering also taking 18.600 instead since I heard that was pretty useful. Thoughts?
---------------------------------------------------
-8.225/STS.042 - Fall 2020
-Hi, freshman here (:
-
-I'm trying to decide whether to take 8.225 (CI-M for physics)/STS.042 in the fall. I am planning to be a physics major, but will likely do many of the other CI-M's for physics like 8.13 and 8.06. 8.225 seems like an interesting class though, and I am considering taking it as a HASS class. For those who have taken it, how time/work-intensive is it compared to other HASS classes in general (especially considering I'm not taking it "as a CI-M," if that makes sense)? Thanks in advance!
---------------------------------------------------
-6.006 vs 6.042 freshman fall
-Hey, sorry to add to the probably annoying freshman questions, but I've been super indecisive between these two classes and registration is coming v soon. So I figured it couldn't hurt to ask. Basically, I'm not sure whether to take 6.042 this semester or skip to 6.006. For reference, I'm planning on doing course 6-3, and I have a decent math background (AP/ASE'd 18.01 & 18.02, taken and could ASE 18.03 and 18.06) & some competitive math experience (6x AIME, but never AMO).
-
-I've heard both sides: for 6.042, it helps to build proof-writing skills and solidify concepts that are seen in 6.006, plus it covers REST; for 6.006, it's nice to take 6.006 ASAP and 6.042 isn't terribly useful. Personally, I'm not terribly worried about struggling in 6.006 (especially P/NR), but for 6.042 it's kind of like "why not?" for me.
-
-So, I was just wondering if any of y'all had to make this choice & what you think is the move for me. Thanks!!
---------------------------------------------------
-Anyone take 21L.011 before?
-I was looking at what HASS class to take for this semester as a prefroh and was considering this class(Intro to film) or CMS.100. Does anyone know that this class/professor is like and is it enjoyable?
 --------------------------------------------------

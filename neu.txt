@@ -1,3 +1,67 @@
+Switching Co-op cycles
+Is it complicated to switch up your Co-op cycle from fall to spring. I recently met with my advisor and they told me that I was set to have my first Co-op in the fall of 2022, but would much rather go on co-op in the spring. I'm in the business school so I know it's a bit harder to switch it up. Does anyone have any suggestions as to how to talk to my advisor about this?
+--------------------------------------------------
+How does laundry work in leased properties like Douglass Park?
+Living there in the summer.
+--------------------------------------------------
+mission hill free parking
+I have a friend who needs to park for a couple hours on the hill and I don't have a car so I'm not familiar with any of the parking spaces. I saw this post about it but is it still right? [https://www.reddit.com/r/NEU/comments/ifi7lm/parking\_on\_mission\_hill/](https://www.reddit.com/r/NEU/comments/ifi7lm/parking_on_mission_hill/) The post said that parker hill has free overnight parking, does that mean after like 6pm you can park there as long as you want for that night?
+--------------------------------------------------
+NORTHEASTERN UNIVERSITY (THE EXPERIENCE REMASTERED)
+Faced with boredom, mediocre musical talent, and a Cee Lo Green background track "Forget You," NUTV's own Ro-... err I mean... Advika and Emma set out to make our SECOND parody music video 10 years later from the original for the 20th Schefens Award show—and we think it's pretty epic. 
+
+**Watch it here:** [**https://youtu.be/iPpi\_7-F-Fk**](https://youtu.be/iPpi_7-F-Fk)
+--------------------------------------------------
+Information systems vs computer science vs data science
+Hi all I am a fall 2022 aspirant and I would like to change my major from Electrical engg to cs or ds or mis.
+
+My question is what is the difference between those three majors?
+
+As far as I have seen at official website cs is more towards specialized topics like theory of computation, machine learning, networks etc.
+
+Ds is more into math and machine learning along with some cs courses.
+
+Information systems is more abt IT management and more on application side
+
+Which of these does the co op recruiters look more into and can I do software engg job if choose ds or is?
+--------------------------------------------------
+NEU Reg affairs.
+Is it difficult to get an admission in Regulatory affairs for a international student?
+--------------------------------------------------
+Grad school campus confusion
+Hello everyone,
+
+I got admitted to NEU for MCS, Fall 2021. I was majorly delighted until I heard that it was the Portland, ME campus. Since it's so new, it is currently one floor of a sublet-ted retail headquarter building. I wasn't too hyped about that, so I emailed the grad admissions team, asking if deferring my admission to Fall 2022 will give me a place at the Boston campus. 
+
+One question has been nagging me: is it worth deferring, or should I just take the current offer? I can also be transferred to the Silicon Valley or Vancouver campuses for Fall 2021. Should I just pick one of these, or wait for Fall 2022?
+--------------------------------------------------
+Rhode Island/Hasbro Commute
+Has anyone done a co-op at Hasbro in Rhode Island recently and can comment on whether or not it’s worth having a car or taking the commuter rail?
+--------------------------------------------------
+Fundamentals of software engineering vs Software dev? fulfill same requirements? Will one kill me?
+Yeah let me know. What's the deal? Wtf is going on here.
+--------------------------------------------------
+OSSCR Plagiarism hearing
+Hey
+
+So I recently got rekt for copying in the final and the prof said he'd be reporting me to OSSCR. This is my first offense so I'm not really sure what I should be expecting in terms of the repercussions. Reading through the various threads on this subreddit, it seems like it could be anything from just getting a 0 for the test or a straight up suspension. 
+
+How worried should I be? Before you point it out, yes, very stupid decision making on my part!
+--------------------------------------------------
+Are we actually going to walk during graduation?
+Bentley had their graduation today and my friend told me all they did was call out their name...
+--------------------------------------------------
+Calc 3 Professor Selction
+Guys, which prof is the best for Calc 3 ?
+--------------------------------------------------
+What happens if I have leftover furniture in my campus apartment?
+I left without taking a desk chair and a crappy table. How much will I be charged?
+
+Edit: to clarify this is northeastern on campus housing
+--------------------------------------------------
+is taking systems and networks at the same time a bad idea?
+I’m planning on taking systems with alden jackson and networks with mislove. my other 2 planned classes are PHIL1145 and an easy elective. is that too much?
+--------------------------------------------------
 Prospective graduate student
 As a prospective graduate student, is majoring in biochemistry at Northeastern a good idea? Or is the course load too stressful and demanding that it would negatively impact how I look toward graduate schools? If so, what other majors should I consider? 
 
@@ -706,15 +770,6 @@ Does anybody know about the new online program called Global ConnEXions? Can Nu.
 --------------------------------------------------
 Northeastern or IU Kelley for finance
 Pretty much my top two options (also considering Lehigh and Wisco, but not as much). I’m pretty sociable, like to party a decent amount, also considering an interest in tech/CS related stuff along with business. Any input will help a lot, thanks !
---------------------------------------------------
-Northeastern vs. NYU
-i rlly like both but i’m v indecisive😪
-
-cs/design for northeastern at khoury and IDM (integrated design and media) for nyu at tandon
-
-and northeastern is cheaper by ~6k/yr
-
-any thoughts are welcomed bc im rlly about to flip a coin at this point
 --------------------------------------------------
 stuck on waitlist
 how often do spots open up for fall classes? im stuck on the waitlist for every single artf2223 class (experience and interaction) and i really need it to graduate on time; do people usually drop the class later on in the summer or is this a lost cause :(
@@ -2619,73 +2674,4 @@ NUin Rooming
 Hey guys! I'm doing NUin Greece this fall andI was just wondering how rooming worked in past years as well as if you can choose your roommates or if they are random. I'm pretty familiar with the rooming once students get back from NUin but I'm just wondering about what my actual fall semester in Greece will look like in regards to making friends and choosing roommates.
 
 P.S. I've also heard that the grades you get in NUin don't count towards your GPA? Does anyone know if that's true?
---------------------------------------------------
-Fundies 1&2 and Coops
-I am freshman starting in NU in CS in Fall 2021 Have couple of questions 
-
-- what’s the best way to prepare for fundies 1 & 2. 
-- Looks like DrRacket LISP is the main language. I understand it’s getting more into logic and design
-But Java and Python are different languages so when do you learn these for actual Coops ? 
-Don’t most of companies coops use these languages Java or Python or C++ or kotlin ? 
-So how you will be ready for coop ?
---------------------------------------------------
-Human Nutrition
-My schedule next semester is gonna be hell, so I want to take an easy elective. For people who have taken human nutrition, how’s the workload?
---------------------------------------------------
-Hey please can you guys fill out this survey. It’s for a class; thank you!! :)
-
---------------------------------------------------
-How hard is it for a College of Science major to get a clinical coop?
-Like EMT or CNA? How do you get one, do you have to get certified first? Is it really hard because Bouve students get priority? How does one best prepare themselves to have a good chance of a coop (like resume volunteering,etc)?
---------------------------------------------------
-CS Accredition
-I wanted to change majors and study CS+Econ and wanted to know which body accredits the CS degree in the states and if the CS program at Northeastern is accredited by them. I couldn't find any useful info abt this online.
---------------------------------------------------
-IS 2000 vs DS 2000 vs other Khoury electives (2000 level or higher)
-Help me decide which Khoury elective to do for Fall 2021! I'm thinking IS 2000 (principles of information science) or DS 2000 (programming with data). My advisor told me that it must be a 2000 level or higher course.
---------------------------------------------------
-summer 1 dining???
-Is it usual that no *real* dining halls are open for the summer? or am I misreading this...
-
-&#x200B;
-
-&#x200B;
-
-https://preview.redd.it/r5rvwneqgct61.png?width=810&format=png&auto=webp&s=98011ea203ae0751c3e12de58352ef95dc6ed44f
---------------------------------------------------
-Engineering Student Looking for Business Experience
-Hey all, figured I’d reach out to some of you for some advice:
-
-I have a spare elective next semester (fall of sophomore year) and was gonna use it for some business experience. Trouble is, I can’t figure out what I should take. The two I’m deciding between (unless someone has a better recommendation) are ECON 1116 and ACCT 1209. My course load is pretty heavy with BioE stuff so whichever is easiest but also helpful I’d most likely want to take. Anyone (particularly engineers in my shoes) have experience in either of these?
---------------------------------------------------
-Do they have caps and gowns at the ongoing senior portrait sessions?
-Mine hasn’t come in the mail yet and I don’t want to go to campus only to be turned away from my appointment.
---------------------------------------------------
-Is anyone subletting a Lightview apartment single for Summer 2?
-
---------------------------------------------------
-Does the bookstore ever restock?
-Title, I just wanted one pair of sweatpants but I’ve noticed that this one item (among many others I’ve taken a look at) are either entirely out of stock or just available in like triple XL.
-
-It’s been like three months of this too.
---------------------------------------------------
-Summer Scholarship = Half Semester?
-So the way I've been hearing it, if you have a scholarship, applying it in the summer is half a semester. So if I have a scholarship for 8 semesters, and I've done 2 semesters here, using it on a summer semester this upcoming summer should mean I would have 5.5 semesters left of scholarship after the summer. Can someone confirm this?
---------------------------------------------------
-CS Fall Workload
-I'm registering tomorrow evening so if any one can get back to me soon that would be great :)
-
-I'm planning on taking these classes in the fall:
-
-CS 3000 - Algo
-
-MATH 1365 - Intro to Math Reasoning
-
-CS 2810 - Math of Data Models
-
-CS 4530 - Fundamentals of Software Eng
-
-&#x200B;
-
-Is this manageable and what should I expect my workload to be?
 --------------------------------------------------

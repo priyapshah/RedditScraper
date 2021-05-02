@@ -1,3 +1,45 @@
+I'll pass interp
+Or not. ¯\\\_(ツ)\_/¯
+
+That's all.
+--------------------------------------------------
+With finals coming up just wanted to remind all it’s not the end of the world if it doesn’t go well
+
+--------------------------------------------------
+My finals are meh
+I’m gonna fucking do my finals. I ain’t studying too hard, but I'm not off playing board games either.
+--------------------------------------------------
+Housing advice
+I was looking for accommodation at CMU's off-campus website and tbh most of them look crap for $800-$1000. Am I expecting too much or listings on that website are just not worth it? Also, is there any other website I should give a shot to? I am looking for an accommodation with a decent room size (enough to fit a bed and a study desk) and a personal bathroom.
+--------------------------------------------------
+My finals are destroying me
+I'm gonna fucking get destroyed by my finals. My finals ain't playing fucking games don't play with them.
+--------------------------------------------------
+15-440 curve Spring
+Does anyone know what the curve was like for last Spring? 
+
+All I know for this semester is that the cutoffs can be higher or lower than 90-80-70 so I'm kinda worried. 
+
+I really need 70 to be a C lol
+--------------------------------------------------
+I’m destroying my finals
+I’m gonna fucking destroy my finals. I ain’t playing fucking games don’t play with me.
+--------------------------------------------------
+Tales from the SoArch Tattler No. 1 The Legend of the Goat
+Grab a chair and lend me your ear (technically your eyes) as I recount some of the legends, lore, and deepest secrets of the CMU School of Architecture. After all this time, some memories deserved to be archived for the next generation to discover the character and intrigue of their institution's past. As a survivor of architorture, this alumni is glad to write as many of them down that can be recollected. You might find these stories unbelievable, but alas, not believing in gravity will not grant you the ability to fly. So take them for what they are.
+
+My first legend comes from the most dapper looking professor in studio. You might recognize him for his style. In his honor, I will share this story:
+
+Long ago, decades before you or I was born, when big hair and shoulder pads were all the rage, the architecture studio in CFA used to look completely different. Students were apparently allowed to construct their own unique furniture. Desks were combined with sleeping spaces above them to create towering masses of construction that the students had to navigate to get to their designated space. Like the occupants of today, those former students were also inclined to be quite messy. Papers piled high. Models were stacked. Soda cans and food containers were everywhere. In the labyrinth of refuse, live animals could thrive.
+
+No, not rats or mice looking for the pungent leftovers from the foodtrucks. Not the stray bird that oft finds its way through the butterfly windows. Nor the stinkbugs that terrorize freshmen every spring as they crawl into their models. That happens everywhere on campus. Professors and students alike expect that. What professors don't expect and what students may try to hide is the sound of "munch munch munch" during a studio critique where eating food is forbidden. They also don't expect to hear the sound of "Baaaaa" as an answer to their critique questions. 
+
+After some exploration, the professors found that students had an actual pet goat tiled to a bed post in corner of that studio. No joke. How on earth they did not notice the smell of the goat before, much less the things it left behind, is beyond my desire to find out. Naturally, the goat couldn't stay. I'd like to imagine it might have found greener pastures outside as the goats of today enjoy as part of the Eco-friendly lawn service. Perhaps the dapper professor himself can tell you what happened to their little studio mascot. 
+
+Cheers, 
+
+The Soarch Tattler.
+--------------------------------------------------
 Looking for a Calculus, Chemistry, English or Biology tutor?
 Hello Everyone,
 
@@ -2971,38 +3013,4 @@ Example: Prerequisites for Computer Vision:
 **(**  18-202 **and**  15-122  **)** **or** **(**   21-241 **and**  21-259 **and**  15-122  **)**
 
 So is it reasonable for a non-Engineer to take this class over those other classes?
---------------------------------------------------
-how is student life for a grad/ MSP student?
-I was admitted to the masters of statistical practice program and am wondering how grad student life is at cmu (rigor of the msp program, social life for masters students, etc) any input on the program or general grad student life is appreciated!
---------------------------------------------------
-Econ + Math Major has a 3.5+ QPA req???
-Since when??? I thought CS was the only major with that high of a GPA hurdle? I guess I'll be sticking to engineering for now then...
---------------------------------------------------
-CMU Comp Bio Masters Fall 2021, New to CMU
-Just got a letter of acceptance for CMU, this was my top choice for computational biology. 
-
-Do master's students get financial aid at all? For the first semester, looking to save money of housing and transportation, any courses to take that are online? Are there any labs or something in which I would have to physically be at CMU? 
-
-&#x200B;
-
-Recommendation for first semester classes?
---------------------------------------------------
-Looking for advice from MAPW or English MA students!
-I really really did not think I was going to get in but I did! With scholarship! I also got into a different, less expensive program so I'm currently weighing my options. Not only am I worried about financing this degree, but I am really worried about handling the course load. How can I know if I can actually pass these classes? I'm worried CMU is way above my skill level and capacities.
---------------------------------------------------
-I didn't get an invite to the CMU MHCI interview. Does it mean that I'm rejected?
-feeling anxious :(
---------------------------------------------------
-offering 21 128?
-are they offering 21 128 this semester? and what is the difference between 21128 and 21127?
---------------------------------------------------
-Do CMU IDs work on buses if you've told the University you're remote?
-Hi,
-
-Sorry for the dumb question. I marked myself in the CMU survey as someone not returning to campus but I may need to take a trip to the city to get some things. Will my CMU ID work on the buses or should I bring a bunch of change with me?
---------------------------------------------------
-ML/DL internship advice for grad students
-I'm a grad student in the ECE department and have been preparing and applying for Summer 21 internships. 
-
-Do the courses taken, RA and projects matter or is Leetcode the only thing I should be caring about?
 --------------------------------------------------

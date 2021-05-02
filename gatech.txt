@@ -1,3 +1,18 @@
+do we have to show up in-person for hybrid courses?
+Noticed some courses during the summer time are hybrid, but I won't be on campus. I haven't taken hybrid courses before this, so I don't know if attendance is mandatory. Have people run into this issue, and if so, how was it solved?
+
+&#x200B;
+
+Specifically, if someone took MATH 3012 during the spring or fall of last year, did it require in-person attendance?
+
+(I searched this in this subreddit but only saw vague responses since posts were mostly made nearly a year ago)
+--------------------------------------------------
+Financial aid question
+I am an incoming freshman and I want to make sure I don’t get screwed in a couple years. Will my financial aid be the same for the next four years as long as my family’s income doesn’t change? Most of the aid is coming from the institutional grant.
+--------------------------------------------------
+HELP! STUCK DECIDING BETWEEN UGA AND GATECH
+On one hand I want to have a long lucrative career in engineering, but on the other hand I want to party and die young
+--------------------------------------------------
 Tech lacrosse beats the dwags again
 Tech - 20
 
@@ -9,11 +24,6 @@ THICC PUNTER GOT DRAFTED BY THE STEELERS
 check my username and guess how fucking excited I am folks
 
 Congrats to Pressley, ran into him a few times before. Man puts in the time and work, gonna have a great career!
---------------------------------------------------
-Leaving stuff in apartment?
-Anyone knowif you will be fined for leaving unwanted stuff in on campus apartments? I have a mini fridge but it would be annoying to store cuz I'm out of state and can't transport it either. 
-
-Also If anyone wants a free mini fridge and is willing to pick it up, message me lol
 --------------------------------------------------
 Jalen Camp got drafted
 Let's gooooo. The best draft prospect from the ACC goes to join the 2nd and 3rd best ACC prospects in Trevor Lawrence and Travis Etienne at Jacksonville
@@ -68,9 +78,6 @@ has anyone moved out yet from nave? where do we return our keys & sign, etc? I d
 --------------------------------------------------
 How’s the Finance Program at Georgia Tech?
 I have been thinking about transferring to a school in the Atlanta area to have access to more internship opportunities in the area. I know tech is an engineering school but I was just curious about how the business school is. Thank you.
---------------------------------------------------
-Required to pass certain classes for CS major?
-According to the course [catalog](https://catalog.gatech.edu/programs/#bachelorstext), CS majors are required to get a C or higher for a handful of classes. However, some other classes are not specified. Could I, for example, not pass combinatorics (MATH 3012) and intro physics (PHYS 2211) and still graduate successfully? Obviously not an ideal situation, but just wanted a clear answer since my graduation is approaching but my advisor wouldn’t answer my question
 --------------------------------------------------
 Please help!! I can't make gt account and the enrollment is due soon
 So I had to decide between Gatech and the other school until today, and finally made my mind to gt.
@@ -2739,25 +2746,4 @@ Active - Scheduled maintenance is starting.
 --------------------------------------------------
 2021 Commit Deebo Coleman is named Florida's Mr. Basketball. Georgia Tech now holds the 15th (!)-ranked recruiting class in the nation, higher than Duke, UCLA, UNC, and Gonzaga
 
---------------------------------------------------
-Apply to the Effective Altruism Fellowship! (by Sunday April 4th 11:59 PM PDT)
-Starting in mid-April, Stanford Effective Altruism is hosting the **Effective Altruism Fellowship**, which helps students figure out **how we can do the most good with our lives** (and particularly careers) — by introducing the ideas and applications of effective altruism: combining evidence and compassion to find the best opportunities for improving the world. Topics include preventing the next pandemic, climate change, mass incarceration, nuclear war, global poverty, transformative AI, and animal welfare. We will also discuss criticisms and uncertainties about effective altruism. The eight-week fellowship will feature speaker events, 1-on-1 mentorship, and career workshops for us to think through how we can increase our positive impact with our careers, time, donations, and other resources.
-
-**Apply here** (due Sunday, April 4, 11:59pm PDT, but it’s super quick and easy to apply): [https://airtable.com/shr1eDEVCPeBw9M1j](https://airtable.com/shr1eDEVCPeBw9M1j)
-
-The key topics in the fellowship are:
-
-* **Measuring impact** (qualitatively and quantitatively) – how to do the most good with our resources
-* **Global health and poverty** – e.g., (sub)tropical disease eradication in developing regions
-* **Factory farming** – how should we evaluate and address animal suffering?
-* **Longtermism** – how should we take into account the well-being of future generations?
-* **Global catastrophic risks** – with a focus on AI safety, pandemic risks, climate change, and nuclear risks
-
-For more info, there will be a fellowship info session and Intro to Effective Altruism on Sunday, April 4 at 3–4 PM EDT:
-
-* Facebook event: [https://www.facebook.com/events/475013233534541/](https://www.facebook.com/events/475013233534541/)
-* Zoom link: [https://stanford.zoom.us/j/8859232327?pwd=M0hqRDlab3IvU1FBL1pmNWswV20yUT09](https://stanford.zoom.us/j/8859232327?pwd=M0hqRDlab3IvU1FBL1pmNWswV20yUT09)
-* Add to your Google Calendar: [https://calendar.google.com/calendar/u/0/r/eventedit/copy/MGU0Y3Z0czdiMWNpajVla2NqM3RoNHUyNnIgbnVkYzRtaThtODU1N2hyaDk0MXNmZTBvM2NAZw/bWljaGFlbC5sZC5jaGVuQGdtYWlsLmNvbQ?sf=true](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MGU0Y3Z0czdiMWNpajVla2NqM3RoNHUyNnIgbnVkYzRtaThtODU1N2hyaDk0MXNmZTBvM2NAZw/bWljaGFlbC5sZC5jaGVuQGdtYWlsLmNvbQ?sf=true)
-
-I’ll be participating in the Effective Altruism Fellowship and I definitely encourage you to apply as well! I've been in the AI Safety Fundamentals fellowship by Effective Altruism Cambridge these past few months and it’s been super interesting.
 --------------------------------------------------
