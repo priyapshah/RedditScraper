@@ -8,7 +8,7 @@ reddit = praw.Reddit(client_id = '59cxBcvPTe0WpA',
                      user_agent = "csScraper v1.0 (by /u/netsReddit)")
 
 # subreddit of interest
-subreddits = ['CMU', 'UIUC', 'MIT', 'stanford', 'UCSD', 'berkeley', 'cornell', 'umich', 'udub', 'umd', 'gatech', 
+subreddits = ['CMU', 'UIUC', 'MIT', 'stanford', 'UCSD', 'berkeley', 'cornell', 'uofm', 'udub', 'umd', 'gatech', 
               'neu', 'columbia', 'uwmadison', 'upenn', 'utaustin' , 'purdue', 'umass', 'nyu', 'ucla']
 keywords = ['CS', 'CSE', 'CIS', 'EECS', 'Comp Sci', 'CompSci', 'CSCI', 'Computer Science', 'Computer Sciences', 
             'Computerscience', 'C Science', 'Cscience', 'COS']   

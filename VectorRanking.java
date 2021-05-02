@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class VectorRanking {
     public static void main(String[] args) {
 		
-		String[] schools = new String[] {"CMU", "UIUC", "MIT", "stanford", "UCSD", "berkeley", "cornell", "umich", "udub", "umd", "gatech", 
+		String[] schools = new String[] {"CMU", "UIUC", "MIT", "stanford", "UCSD", "berkeley", "cornell", "uofm", "udub", "umd", "gatech", 
 		"neu", "columbia", "uwmadison", "upenn", "utaustin" , "purdue", "umass", "nyu", "ucla"};
 
 		Document keywords = new Document("keywords.txt");
