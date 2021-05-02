@@ -55,10 +55,4 @@ for i, sub in enumerate(subreddits):
     print(sub + ': ' + str(freqs[i]))
 
 
-# outer for-loop goes to each subreddit. inner for-loop scans for keywords
-# for subreddit in subreddits:
-#   new = subreddit.new(limit = 500)
-#   relevant_posts = []
-#   for submission in new:
-#     if (submission.body.contains )
-#     print(submission.title)
+
