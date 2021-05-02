@@ -1,5 +1,3 @@
-package ir;
-
 import java.util.HashMap;
 import java.util.Set;
 
