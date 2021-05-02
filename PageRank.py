@@ -30,7 +30,7 @@ A = beta * M + (1-beta) * (1/n) * np.ones((n, n))
 
 iter = 0
 diff = 9999
-ranks = np.ones((n, ))
+ranks = (1/n) * np.ones((n, ))
 while iter < 1000 and diff > 0.00000001:
     new_ranks = A.dot(ranks)
     diff = np.sum(np.abs(ranks - new_ranks))
