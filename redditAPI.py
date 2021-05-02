@@ -35,6 +35,24 @@ for school in subreddits:
         schoolFile.write(50*'-')
         schoolFile.write("\n")
         
+        
+n = len(subreddits)
+texts = []
+for sub in subreddits:
+    file = open(sub + '.txt')
+    texts.append(file.read().lower())
+
+freqs = []
+for i, sub in enumerate(subreddits):
+    freq = 0
+    for key in keywords:
+        keyword = key.lower()
+        freq += texts[i].count(keyword)
+    freqs.append(freq)
+
+print('KEYWORD FREQUENCIES')
+for i, sub in enumerate(subreddits):
+    print(sub + ': ' + str(freqs[i]))
 
 
 # outer for-loop goes to each subreddit. inner for-loop scans for keywords
